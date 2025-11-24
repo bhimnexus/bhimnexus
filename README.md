@@ -32,22 +32,36 @@ I love solving complex production problems, building automation tools, and desig
 
 ## 🧠 Skills & Technologies
 
-### **Mainframe Stack**
-- COBOL, JCL, VSAM, DB2, IMS  
-- CICS, REXX, Assembler  
-- Control-M, Endeavor, ChangeMan  
-- Incident, RCA, Production Support (24×7)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhimnexus&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhimnexus&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
-### **AI / Automation**
-- Agentic AI (LangChain, ReAct frameworks)  
-- Python automation scripts  
-- AIOps concepts (log triage, predictive alerts)
+## 🛠️ Tech Stack
 
-### **Tools & Practices**
-- Agile, Scrum, ITSM, SDLC  
-- Quality Centre, Remedy, ServiceNow  
-- Batch optimization & SLA reliability  
-- Modernization and cloud migration exposure
+**Mainframe Technologies**
+
+![COBOL](https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=cobol&logoColor=white)
+![JCL](https://img.shields.io/badge/JCL-007ACC?style=for-the-badge&logo=ibm&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-003366?style=for-the-badge&logo=ibm&logoColor=white)
+![VSAM](https://img.shields.io/badge/VSAM-5C2D91?style=for-the-badge)
+![CICS](https://img.shields.io/badge/CICS-007ACC?style=for-the-badge)
+![REXX](https://img.shields.io/badge/REXX-FFD700?style=for-the-badge)
+
+**AI & Automation**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![AIOps](https://img.shields.io/badge/AIOps-3b5998?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Control-M](https://img.shields.io/badge/Control--M-FF6F00?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-13A564?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ---
 
@@ -65,16 +79,43 @@ Experiments with LangChain, ReAct, multi-agent systems, and IT automation.
 COBOL/JCL samples, REXX utilities, Python automations.  
 👉 `cobol-automation-toolkit`
 
+
 ---
 
 ## 🏆 Certifications
+## 📜 Certifications
 
-- **Agentic AI Fundamentals — LinkedIn Learning**  
+### Agentic AI Fundamentals — LinkedIn Learning  
+*Completed on: Nov 24, 2025*  
+[📄 View Certificate (PDF)](./Certificate-Agentic-AI-Fundamentals.pdf)
+
+### AI Productivity Hacks to Reimagine Your Workday and Career — LinkedIn Learning  
+*Completed on: Oct 29, 2025*  
+[📄 View Certificate (PDF)](./Certificate-AI-Productivity-Hacks.pdf)
+
+### COBOL Essential Training — LinkedIn Learning  
+*Completed on: Nov 19, 2025*  
+[📄 View Certificate (PDF)](./Certificate-COBOL-Essential-Training.pdf)
+
+### Introduction to Prompt Engineering for Generative AI — LinkedIn Learning  
+*Completed on: Oct 24, 2025*  
+[📄 View Certificate (PDF)](./Certificate-Prompt-Engineering.pdf)
+
+### Build Your Generative AI Productivity Skills (Microsoft + LinkedIn Learning Path)  
+*Completed on: Nov 14, 2025*  
+[📄 View Certificate (PDF)](./Certificate-Generative-AI-Productivity-Microsoft.pdf)
+
+### Python Programming: Basics to Advanced — Udemy  
+*Completed on: Apr 25, 2019*  
+[📄 View Certificate (PDF)](./Certificate-Python-Programming.pdf)
+
 - **Agile Master (HCL Technologies)**  
 - **ITSM Certified**  
-- **Python (Basic–Advanced)**  
-
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhimnexus&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
 ## 📫 Connect With Me
 
