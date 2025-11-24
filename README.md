@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhim Singh</h1>
 
 <p align="center">
-  <b>Mainframe Technical Lead | AI & Agentic AI Practitioner | Automation & Modernization Specialist</b><br>
-  <b>18+ Years Experience • BFSI | Telecom | Healthcare</b>
+  <b>Mainframe Professional | AI & Agentic AI Practitioner | Automation & Modernization Specialist</b><br>
+  <b>15+ Years Experience • BFSI | Telecom | Healthcare</b>
 </p>
 
 ---
