@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Mainframe Technical Lead with 18+ years of hands-on experience across **COBOL, JCL, DB2, VSAM, CICS, REXX, Control-M**, and enterprise-grade production support.  
+I'm a Mainframe professional with 13+ years of hands-on experience across **COBOL, JCL, DB2, VSAM, CICS, REXX, Control-M**, and enterprise-grade production support.  
 
 Currently expanding into **Agentic AI, LLM Automation, AIOps, and Modernization Engineering** — combining legacy system expertise with next-generation AI workflows.
 
