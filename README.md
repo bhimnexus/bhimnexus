@@ -109,6 +109,11 @@ COBOL/JCL samples, REXX utilities, Python automations.
 *Completed on: Apr 25, 2019*  
 [📄 View Certificate (PDF)](./Certificate-Python-Programming.pdf)
 
+### Hands-On Generative AI with Multi-Agent LangChain — LinkedIn Learning  
+*Completed on: Nov 25, 2025*  
+[📄 View Certificate (PDF)](./Certificate-HandsOn-MultiAgent-LangChain.pdf)
+
+
 - **Agile Master (HCL Technologies)**  
 - **ITSM Certified**  
 ---
