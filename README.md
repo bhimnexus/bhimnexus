@@ -32,12 +32,6 @@ I love solving complex production problems, building automation tools, and desig
 
 ## 🧠 Skills & Technologies
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhimnexus&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhimnexus&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
 ## 🛠️ Tech Stack
 
 **Mainframe Technologies**
@@ -61,7 +55,6 @@ I love solving complex production problems, building automation tools, and desig
 ![Control-M](https://img.shields.io/badge/Control--M-FF6F00?style=for-the-badge)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-13A564?style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 
 ---
 
