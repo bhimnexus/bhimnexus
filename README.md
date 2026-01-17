@@ -76,9 +76,12 @@ Experiments with LangChain, ReAct, multi-agent systems, and IT automation.
 👉 `agentic-ai-labs`
 
 ### 🔹 **COBOL Automation Toolkit**
-COBOL/JCL samples, REXX utilities, Python automations.  
-👉 `cobol-automation-toolkit`
-
+Production-ready mainframe automation utilities combining COBOL, JCL, DB2, REXX, and Python.
+Includes:
+- 🔧 JCL Job Failure Analyzer (Python) — automated RCA for JES/SYSOUT
+- 🧠 DB2 SQLCODE Analyzer (Python) — SQLCODE meaning, causes, fixes
+- 🛠️ REXX Dataset Checker — dataset existence & accessibility
+- 📄 COBOL & JCL samples — compile, run, DB2 patterns
 
 ---
 
